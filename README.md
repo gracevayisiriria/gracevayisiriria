@@ -20,8 +20,8 @@
 ## 🛠 Langages et outils que j’utilise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,python,js,git,github,vscode,windows,wordpress" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,java,cs,figma,notion,excel,word" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,python,js,git,github,vscode,windows," /><br>
+  <img src="https://skillicons.dev/icons?i=excel,word" />
 </p>
 
 ---
@@ -29,19 +29,19 @@
 ## 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GraceVayisiriria&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gracevayisiriria&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GraceVayisiriria&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gracevayisiriria&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GraceVayisiriria&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracevayisiriria&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GraceVayisiriria&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gracevayisiriria&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
 ---
